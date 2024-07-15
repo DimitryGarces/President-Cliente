@@ -1,4 +1,4 @@
-var rendimiento = "93%";
+var rendimiento = "92%";
 
 // Función para actualizar el tamaño del gráfico y la fuente
 function updateChartSize() {
@@ -49,7 +49,7 @@ function updateChartSize() {
 }
 
 var options = {
-    series: [1077, 79],
+    series: [1124, 85],
     chart: {
         width: 500,
         type: 'donut',
