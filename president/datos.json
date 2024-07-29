@@ -112,8 +112,8 @@
             {
                 "Direccion": "Contraloria_Municipal",
                 "Resueltos": 64,
-                "Pendientes": 1,
-                "Rendimiento": 98.0
+                "Pendientes": 0,
+                "Rendimiento": 100.0
             },
             {
                 "Direccion": "Gobernacion",
@@ -142,7 +142,7 @@
         ],
         "Resumen": {
             "Resueltos_totales": 163,
-            "Pendientes_totales": 9,
+            "Pendientes_totales": 8,
             "Rendimiento_general": 95.0
         }
     },
