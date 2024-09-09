@@ -39,9 +39,9 @@
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 168,
-            "Pendientes_totales": 35,
-            "Rendimiento_general": 83.0
+            "Resueltos_totales": 15,
+            "Pendientes_totales": 3,
+            "Rendimiento_general": 83
         }
     },
     "Social_y_de_Resultados": {
@@ -96,9 +96,9 @@
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 218,
-            "Pendientes_totales": 26,
-            "Rendimiento_general": 89.0
+            "Resueltos_totales": 29,
+            "Pendientes_totales": 1,
+            "Rendimiento_general": 96
         }
     },
     "Legal_y_Planeacion": {
@@ -141,9 +141,9 @@
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 182,
-            "Pendientes_totales": 15,
-            "Rendimiento_general": 92.0
+            "Resueltos_totales": 19,
+            "Pendientes_totales": 2,
+            "Rendimiento_general": 90
         }
     },
     "Administrativo_Financiero": {
@@ -162,9 +162,9 @@
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 203,
-            "Pendientes_totales": 10,
-            "Rendimiento_general": 95.0
+            "Resueltos_totales": 15,
+            "Pendientes_totales": 2,
+            "Rendimiento_general": 88
         }
     }
 }
