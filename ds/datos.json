@@ -9,31 +9,31 @@
             },
             {
                 "Direccion": "Servicios_Publicos",
-                "Resueltos": 40,
+                "Resueltos": 0,
                 "Pendientes": 12,
                 "Rendimiento": 77.0
             },
             {
                 "Direccion": "OPDAPAS",
-                "Resueltos": 41,
+                "Resueltos": 0,
                 "Pendientes": 3,
                 "Rendimiento": 93.0
             },
             {
                 "Direccion": "Gerencia_de_la_Ciudad",
-                "Resueltos": 5,
+                "Resueltos": 0,
                 "Pendientes": 0,
                 "Rendimiento": 100.0
             },
             {
                 "Direccion": "Medio_Ambiente",
-                "Resueltos": 36,
+                "Resueltos": 0,
                 "Pendientes": 3,
                 "Rendimiento": 92.0
             },
             {
                 "Direccion": "Desarrollo_Urbano_y_Metropolitano",
-                "Resueltos": 31,
+                "Resueltos": 0,
                 "Pendientes": 2,
                 "Rendimiento": 94.0
             }
