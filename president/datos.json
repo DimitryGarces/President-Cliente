@@ -4,20 +4,20 @@
             {
                 "Direccion": "Obras_Publicas",
                 "Resueltos": 19,
-                "Pendientes": 18,
-                "Rendimiento": 51.0
+                "Pendientes": 21,
+                "Rendimiento": 48.0
             },
             {
                 "Direccion": "Servicios_Publicos",
                 "Resueltos": 48,
-                "Pendientes": 16,
-                "Rendimiento": 75.0
+                "Pendientes": 21,
+                "Rendimiento": 70.0
             },
             {
                 "Direccion": "OPDAPAS",
-                "Resueltos": 54,
+                "Resueltos": 56,
                 "Pendientes": 2,
-                "Rendimiento": 96.0
+                "Rendimiento": 97.0
             },
             {
                 "Direccion": "Gerencia_de_la_Ciudad",
@@ -27,9 +27,9 @@
             },
             {
                 "Direccion": "Medio_Ambiente",
-                "Resueltos": 40,
-                "Pendientes": 6,
-                "Rendimiento": 87.0
+                "Resueltos": 42,
+                "Pendientes": 7,
+                "Rendimiento": 86.0
             },
             {
                 "Direccion": "Desarrollo_Urbano_y_Metropolitano",
@@ -39,9 +39,9 @@
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 208,
-            "Pendientes_totales": 44,
-            "Rendimiento_general": 83.0
+            "Resueltos_totales": 212,
+            "Pendientes_totales": 53,
+            "Rendimiento_general": 80.0
         }
     },
     "Social_y_de_Resultados": {
@@ -49,18 +49,18 @@
             {
                 "Direccion": "Desarrollo_Social",
                 "Resueltos": 20,
-                "Pendientes": 1,
-                "Rendimiento": 95.0
+                "Pendientes": 3,
+                "Rendimiento": 87.0
             },
             {
                 "Direccion": "Seguridad_Publica",
-                "Resueltos": 112,
-                "Pendientes": 9,
-                "Rendimiento": 93.0
+                "Resueltos": 120,
+                "Pendientes": 8,
+                "Rendimiento": 94.0
             },
             {
                 "Direccion": "Proteccion_Civil_y_Bomberos",
-                "Resueltos": 43,
+                "Resueltos": 45,
                 "Pendientes": 1,
                 "Rendimiento": 98.0
             },
@@ -72,9 +72,9 @@
             },
             {
                 "Direccion": "Desarrollo_Economico_Turistico_y_Artesanal",
-                "Resueltos": 41,
-                "Pendientes": 4,
-                "Rendimiento": 91.0
+                "Resueltos": 42,
+                "Pendientes": 6,
+                "Rendimiento": 88.0
             },
             {
                 "Direccion": "IMCUFIDEM",
@@ -84,9 +84,9 @@
             },
             {
                 "Direccion": "Comunicacion_Social",
-                "Resueltos": 21,
-                "Pendientes": 2,
-                "Rendimiento": 91.0
+                "Resueltos": 22,
+                "Pendientes": 4,
+                "Rendimiento": 85.0
             },
             {
                 "Direccion": "Secretaria_Tecnica",
@@ -96,30 +96,30 @@
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 270,
-            "Pendientes_totales": 17,
-            "Rendimiento_general": 94.0
+            "Resueltos_totales": 282,
+            "Pendientes_totales": 22,
+            "Rendimiento_general": 93.0
         }
     },
     "Legal_y_Planeacion": {
         "Direcciones": [
             {
                 "Direccion": "Consejeria_Juridica",
-                "Resueltos": 69,
-                "Pendientes": 8,
-                "Rendimiento": 90.0
+                "Resueltos": 70,
+                "Pendientes": 10,
+                "Rendimiento": 88.0
             },
             {
                 "Direccion": "Contraloria_Municipal",
                 "Resueltos": 82,
-                "Pendientes": 0,
-                "Rendimiento": 100.0
+                "Pendientes": 2,
+                "Rendimiento": 98.0
             },
             {
                 "Direccion": "Gobernacion",
                 "Resueltos": 15,
-                "Pendientes": 1,
-                "Rendimiento": 94.0
+                "Pendientes": 2,
+                "Rendimiento": 88.0
             },
             {
                 "Direccion": "Gobierno_por_Resultados",
@@ -141,9 +141,9 @@
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 221,
-            "Pendientes_totales": 11,
-            "Rendimiento_general": 95.0
+            "Resueltos_totales": 222,
+            "Pendientes_totales": 16,
+            "Rendimiento_general": 93.0
         }
     },
     "Administrativo_Financiero": {
@@ -151,20 +151,20 @@
             {
                 "Direccion": "Administracion",
                 "Resueltos": 43,
-                "Pendientes": 0,
-                "Rendimiento": 100.0
+                "Pendientes": 1,
+                "Rendimiento": 98.0
             },
             {
                 "Direccion": "Tesoreria",
-                "Resueltos": 193,
-                "Pendientes": 8,
+                "Resueltos": 200,
+                "Pendientes": 9,
                 "Rendimiento": 96.0
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 236,
-            "Pendientes_totales": 8,
-            "Rendimiento_general": 97.0
+            "Resueltos_totales": 243,
+            "Pendientes_totales": 10,
+            "Rendimiento_general": 96.0
         }
     },
     "Atencion_a_grupos_especiales": {
@@ -178,8 +178,8 @@
             {
                 "Direccion": "Igualdad_de_Genero",
                 "Resueltos": 22,
-                "Pendientes": 2,
-                "Rendimiento": 92.0
+                "Pendientes": 3,
+                "Rendimiento": 88.0
             },
             {
                 "Direccion": "SMDIF",
@@ -190,8 +190,8 @@
         ],
         "Resumen": {
             "Resueltos_totales": 69,
-            "Pendientes_totales": 6,
-            "Rendimiento_general": 92.0
+            "Pendientes_totales": 7,
+            "Rendimiento_general": 91.0
         }
     },
     "Atencion_Ciudadana": {
