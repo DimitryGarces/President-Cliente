@@ -4,8 +4,8 @@
             {
                 "Direccion": "Obras_Publicas",
                 "Resueltos": 19,
-                "Pendientes": 21,
-                "Rendimiento": 48.0
+                "Pendientes": 22,
+                "Rendimiento": 46.0
             },
             {
                 "Direccion": "Servicios_Publicos",
@@ -21,26 +21,26 @@
             },
             {
                 "Direccion": "Gerencia_de_la_Ciudad",
-                "Resueltos": 7,
-                "Pendientes": 1,
-                "Rendimiento": 88.0
+                "Resueltos": 9,
+                "Pendientes": 0,
+                "Rendimiento": 100.0
             },
             {
                 "Direccion": "Medio_Ambiente",
                 "Resueltos": 42,
-                "Pendientes": 7,
-                "Rendimiento": 86.0
+                "Pendientes": 8,
+                "Rendimiento": 84.0
             },
             {
                 "Direccion": "Desarrollo_Urbano_y_Metropolitano",
-                "Resueltos": 40,
+                "Resueltos": 42,
                 "Pendientes": 1,
                 "Rendimiento": 98.0
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 212,
-            "Pendientes_totales": 53,
+            "Resueltos_totales": 216,
+            "Pendientes_totales": 54,
             "Rendimiento_general": 80.0
         }
     },
@@ -54,9 +54,9 @@
             },
             {
                 "Direccion": "Seguridad_Publica",
-                "Resueltos": 120,
-                "Pendientes": 8,
-                "Rendimiento": 94.0
+                "Resueltos": 123,
+                "Pendientes": 7,
+                "Rendimiento": 95.0
             },
             {
                 "Direccion": "Proteccion_Civil_y_Bomberos",
@@ -73,8 +73,8 @@
             {
                 "Direccion": "Desarrollo_Economico_Turistico_y_Artesanal",
                 "Resueltos": 42,
-                "Pendientes": 6,
-                "Rendimiento": 88.0
+                "Pendientes": 7,
+                "Rendimiento": 86.0
             },
             {
                 "Direccion": "IMCUFIDEM",
@@ -96,7 +96,7 @@
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 282,
+            "Resueltos_totales": 285,
             "Pendientes_totales": 22,
             "Rendimiento_general": 93.0
         }
@@ -105,21 +105,21 @@
         "Direcciones": [
             {
                 "Direccion": "Consejeria_Juridica",
-                "Resueltos": 70,
-                "Pendientes": 10,
-                "Rendimiento": 88.0
+                "Resueltos": 74,
+                "Pendientes": 7,
+                "Rendimiento": 91.0
             },
             {
                 "Direccion": "Contraloria_Municipal",
-                "Resueltos": 82,
+                "Resueltos": 84,
                 "Pendientes": 2,
                 "Rendimiento": 98.0
             },
             {
                 "Direccion": "Gobernacion",
                 "Resueltos": 15,
-                "Pendientes": 2,
-                "Rendimiento": 88.0
+                "Pendientes": 1,
+                "Rendimiento": 94.0
             },
             {
                 "Direccion": "Gobierno_por_Resultados",
@@ -141,9 +141,9 @@
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 222,
-            "Pendientes_totales": 16,
-            "Rendimiento_general": 93.0
+            "Resueltos_totales": 228,
+            "Pendientes_totales": 12,
+            "Rendimiento_general": 95.0
         }
     },
     "Administrativo_Financiero": {
@@ -156,13 +156,13 @@
             },
             {
                 "Direccion": "Tesoreria",
-                "Resueltos": 200,
+                "Resueltos": 203,
                 "Pendientes": 9,
                 "Rendimiento": 96.0
             }
         ],
         "Resumen": {
-            "Resueltos_totales": 243,
+            "Resueltos_totales": 246,
             "Pendientes_totales": 10,
             "Rendimiento_general": 96.0
         }
