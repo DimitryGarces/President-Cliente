@@ -12,7 +12,10 @@ df = df[~df['Direcciones'].isin(['asuntos_religiosos', 'asesores','Defensoria_Mu
 # Obtener las mejores y peores direcciones
 mejores = df.sort_values(by=['Porcentaje', 'Resueltos'], ascending=[False, False]).head(3)
 #peores = df.sort_values(by=['Porcentaje', 'Pendientes'], ascending=[True, False]).head(3)
-peores = df[df['Resueltos'] != df['Tareas totales']].sort_values(by=['Porcentaje', 'Pendientes'], ascending=[True, False]).head(3)
+peores = df[
+    (df['Resueltos'] != df['Tareas totales']) & 
+    (~df['Direcciones'].isin(mejores['Direcciones']))
+].sort_values(by=['Pendientes'], ascending=False)
 
 # Imprimir las mejores y peores direcciones
 print("Las 3 direcciones con mejor rendimiento son:")
