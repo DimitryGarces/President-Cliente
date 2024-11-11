@@ -49,7 +49,7 @@ function updateChartSize() {
 }
 
 var options = {
-    series: [1709, 132],
+    series: [1760, 140],
     chart: {
         width: 500,
         type: 'donut',
