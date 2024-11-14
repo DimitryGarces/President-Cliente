@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var options = {
         series: [{
             name: 'Total',
-            data: [1760, 140]
+            data: [1760, 139]
         }],
         chart: {
             toolbar: {
