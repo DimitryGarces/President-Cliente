@@ -1,4 +1,4 @@
-var rendimiento = "93%";
+var rendimiento = "94%";
 
 // Función para actualizar el tamaño del gráfico y la fuente
 function updateChartSize() {
