@@ -4,8 +4,8 @@
             {
                 "Direccion": "Obras_Publicas",
                 "Resueltos": 43,
-                "Pendientes": 4,
-                "Rendimiento": 91.0
+                "Pendientes": 3,
+                "Rendimiento": 93.0
             },
             {
                 "Direccion": "Servicios_Publicos",
@@ -40,7 +40,7 @@
         ],
         "Resumen": {
             "Resueltos_totales": 256,
-            "Pendientes_totales": 32,
+            "Pendientes_totales": 31,
             "Rendimiento_general": 89.0
         }
     },
