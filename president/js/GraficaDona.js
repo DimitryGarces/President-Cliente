@@ -55,7 +55,7 @@ var options = {
         type: 'donut',
     },
     labels: ['Resueltos', 'Pendientes'],
-    colors: ['#70ce58', '#204f78'],
+    colors: ['#204f78', '#b63329'],
     dataLabels: {
         enabled: false,
         offsetY: 10,
